@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Barkodlar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="margin-top:25px" >
+    <h2 class="section-title mt-20">Barkod Listesi</h2>
+    <a type="button" asp-action="Index" class="btn btn-primary">Barkod Oluştur</a>
+    <table id="barkodTable" class="table table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Barkod</th>
+                <th>Stok No</th>
+                <th>Miktar</th>
+                <th>Eksiltme Miktar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var barkod in ViewBag.Barkods)
+            {
+                <tr>
+                    <td>@barkod.BarkodNo</td>
+                    <td>@barkod.StokNo</td>
+                    <td>@barkod.KasaIciMiktar</td>
+                    <td>@barkod.EksiltmeMiktar</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#barkodTable').DataTable({
+                paging: true,
+                searching: true,
+                responsive: true,
+            });
+        });
+    </script>
+}
