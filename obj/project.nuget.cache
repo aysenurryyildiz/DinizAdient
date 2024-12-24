@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ib91PWUckdAHgVePFBQD8VwTDngVwsFam833WOFxy6teSxOKHBIf0sV7N3xBMIerMu8gXsxOMBiLr82whBG0sg==",
+  "dgSpecHash": "d5JJRHXt0o3ru9wJ20oc4lk5imSi8oM2W7WMnFXiFaMT48F85QNtOjn8E2ORDeop2Zm2iUPOzgmti1rlEGhIPA==",
   "success": true,
-  "projectFilePath": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\StokBarkodSistemi.csproj",
+  "projectFilePath": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\StokBarkodSistemi.csproj",
   "expectedPackageFiles": [
     "D:\\USERS\\AYSENURY\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "D:\\USERS\\AYSENURY\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

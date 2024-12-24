@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wrGTwkVAt71Q3XLjx5GThoZfMaKWuWcD9Wq3rD40P3M=",
+  "Hash": "g9PjW1Lc6LaXnP1MBjE1ZMABVwintD1ypHeXszGL0Kk=",
   "Source": "StokBarkodSistemi",
   "BasePath": "_content/StokBarkodSistemi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StokBarkodSistemi\\wwwroot",
       "Source": "StokBarkodSistemi",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StokBarkodSistemi.styles.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StokBarkodSistemi.styles.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "StokBarkodSistemi.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StokBarkodSistemi.styles.css"
+      "OriginalItemSpec": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StokBarkodSistemi.styles.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StokBarkodSistemi.bundle.scp.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StokBarkodSistemi.bundle.scp.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "StokBarkodSistemi.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StokBarkodSistemi.bundle.scp.css"
+      "OriginalItemSpec": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StokBarkodSistemi.bundle.scp.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\css\\site.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\css\\site.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\css\\style.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\css\\style.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\favicon.ico",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\favicon.ico",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\img\\Barcode System.png",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\img\\Barcode System.png",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "img/Barcode System.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Barcode System.png"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\js\\site.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\js\\site.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\aos\\aos.cjs.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\aos\\aos.cjs.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/aos/aos.cjs.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\aos\\aos.cjs.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\aos\\aos.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\aos\\aos.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/aos/aos.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\aos\\aos.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\aos\\aos.esm.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\aos\\aos.esm.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/aos/aos.esm.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\aos\\aos.esm.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\aos\\aos.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\aos\\aos.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/aos/aos.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\aos\\aos.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\aos\\aos.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\aos\\aos.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/aos/aos.js.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\aos\\aos.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.min.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.scss",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\css\\animations.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\css\\animations.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/css/animations.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\css\\animations.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/css/boxicons.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\css\\boxicons.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/css/boxicons.min.css",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/css/transformations.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\css\\transformations.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/boxicons/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/glightbox/css/plyr.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\css\\plyr.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/glightbox/css/plyr.min.css",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\css\\plyr.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/isotope-layout/isotope.pkgd.js",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/isotope-layout/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\php-email-form\\validate.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/php-email-form/validate.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/purecounter/purecounter_vanilla.js",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\purecounter\\purecounter_vanilla.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/purecounter/purecounter_vanilla.js.map",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\vendor\\waypoints\\noframework.waypoints.js",
+      "Identity": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\vendor\\waypoints\\noframework.waypoints.js",
       "SourceId": "StokBarkodSistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\wwwroot\\",
+      "ContentRoot": "D:\\USERS\\AYSENURY\\Desktop\\Yeni klasör\\StokBarkodSistemi\\DinizAdient\\wwwroot\\",
       "BasePath": "_content/StokBarkodSistemi",
       "RelativePath": "vendor/waypoints/noframework.waypoints.js",
       "AssetKind": "All",

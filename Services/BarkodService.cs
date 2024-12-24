@@ -12,25 +12,47 @@ namespace StokBarkodSistemi.Services
             if (stokKartBilgi == null)
                 throw new Exception("Stok kartı bilgisi bulunamadı.");
 
+            var mevcutBarkods = StokKartService.Barkodlar
+                .Where(b => b.StokNo == stokNo && b.KasaIciMiktar < stokKartBilgi.KasaIciMiktar)
+                .OrderBy(b => b.BarkodNo)
+                .ToList();
+
             decimal remainingMiktar = gelenMiktar;
-            int lastBarkodNo = GetLastBarkodNumber(); 
 
-            while (remainingMiktar > 0)
+            foreach (var barkod in mevcutBarkods)
             {
-                decimal currentMiktar = Math.Min(stokKartBilgi.KasaIciMiktar, remainingMiktar);
-                decimal eksiltmeMiktar = currentMiktar == stokKartBilgi.KasaIciMiktar ? stokKartBilgi.EksiltmeMiktar : remainingMiktar;
+                if (remainingMiktar <= 0)
+                    break;
 
-                var barkod = new Barkod
+                decimal tamamlananMiktar = Math.Min(stokKartBilgi.KasaIciMiktar - barkod.KasaIciMiktar, remainingMiktar);
+                barkod.KasaIciMiktar += tamamlananMiktar;
+                barkod.EksiltmeMiktar = barkod.KasaIciMiktar == stokKartBilgi.KasaIciMiktar
+                    ? stokKartBilgi.EksiltmeMiktar
+                    : barkod.KasaIciMiktar;
+                remainingMiktar -= tamamlananMiktar;
+            }
+
+            if (remainingMiktar > 0)
+            {
+                int lastBarkodNo = GetLastBarkodNumber();
+
+                while (remainingMiktar > 0)
                 {
-                    BarkodNo = GenerateUniqueBarkodNo(lastBarkodNo),
-                    StokNo = stokNo,
-                    KasaIciMiktar = currentMiktar,
-                    EksiltmeMiktar = eksiltmeMiktar
-                };
+                    decimal currentMiktar = Math.Min(stokKartBilgi.KasaIciMiktar, remainingMiktar);
+                    decimal eksiltmeMiktar = currentMiktar == stokKartBilgi.KasaIciMiktar ? stokKartBilgi.EksiltmeMiktar : currentMiktar;
 
-                StokKartService.Barkodlar.Add(barkod);
-                remainingMiktar -= currentMiktar;
-                lastBarkodNo++; 
+                    var newBarkod = new Barkod
+                    {
+                        BarkodNo = GenerateUniqueBarkodNo(lastBarkodNo),
+                        StokNo = stokNo,
+                        KasaIciMiktar = currentMiktar,
+                        EksiltmeMiktar = eksiltmeMiktar
+                    };
+
+                    StokKartService.Barkodlar.Add(newBarkod);
+                    remainingMiktar -= currentMiktar;
+                    lastBarkodNo++;
+                }
             }
         }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StokBarkodSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a093670252f46341fbcff6b0248106e4e73c254d")]
 [assembly: System.Reflection.AssemblyProductAttribute("StokBarkodSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StokBarkodSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
